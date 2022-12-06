@@ -1,4 +1,4 @@
-Delimitaçõa do Escopo
+Delimitação do Escopo
 
 Para compor o sistema, as funcionalidades a serem desenvolvidas são, o CRUD 
 de matérias, usuários, tarefas e de notas. Ainda, uma funcionalidade como uma 
@@ -7,7 +7,7 @@ desempenho, bloco de anotações, “timer” de estudos, além do gerenciamento
 anotações de uma forma flexível para o universitário.
 Linguagem Utilizadada: PHP
 
-Formulacão do Problema
+Formulação do Problema
 
 Muitos universitários enfrentam problemas no seu dia a dia para conseguir 
 organização e foco com os estudos, enquanto possuem uma vida complexa e atarefada 
